@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 public class Menu {
 
-    private static int main;
-
     public static void Juego() {
         //Creacion de tablero
         int ps[][] = new int[8][8];
